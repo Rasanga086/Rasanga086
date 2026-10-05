@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Chamath Rasanga
+# Hi , I'm Chamath Rasanga
 
-### 💻 Information Technology Student | Software Developer
+### Information Technology Student | Software Developer
 
 <img src="YOUR_PHOTO_URL" width="180" height="180" alt="Chamath Rasanga">
 
@@ -10,55 +10,55 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 🎓 Information Technology Student at the **Institute of Technology, University of Moratuwa, Sri Lanka**
 
-💻 Interested in **Software Development, Web Development and DevOps**
+Interested in **Software Development, Web Development and DevOps**
 
-🌱 Currently learning **Linux, DevOps and Internet of Things (IoT)**
+Currently learning **Linux, DevOps and Internet of Things (IoT)**
 
-🚀 Building software and IoT projects to improve my practical skills
+Building software and IoT projects to improve my practical skills
 
-💡 Passionate about learning new technologies and developing real-world solutions
+Passionate about learning new technologies and developing real-world solutions
 
 🇱🇰 Based in Sri Lanka
 
 ---
 
-## 🛠️ Technical Skills
+##  ]\Technical Skills
 
-### 💻 Programming Languages
+### Programming Languages
 
 `Java` `Python` `C#` `JavaScript` `C` `SQL`
 
-### 🌐 Web Development
+### Web Development
 
 `HTML` `CSS` `JavaScript` `React` `PHP` `Node.js`
 
-### ⚙️ Frameworks & Technologies
+### Frameworks & Technologies
 
 `Spring Boot` `REST API` `Vite`
 
-### 🗄️ Databases
+### Databases
 
 `MySQL` `PostgreSQL` `SQL Server`
 
-### 🔧 Development Tools
+### Development Tools
 
 `Git` `GitHub` `VS Code` `Visual Studio` `Postman` `Figma` `Draw.io`
 
-### ☁️ DevOps & Cloud
+###  DevOps & Cloud
 
 `Linux` `Git` `GitHub` `Docker` `CI/CD` `GitHub Actions` `Cloud Computing`
 
-### 📡 Internet of Things (IoT)
+###  Internet of Things (IoT)
 
 `Arduino` `Sensors` `Microcontrollers` `Embedded Systems`
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - 🐧 Linux
 - ⚙️ DevOps
@@ -69,27 +69,27 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🌊 Community-Based Ocean & Coastal Cleanup Management System
+### Community-Based Ocean & Coastal Cleanup Management System
 
 A platform designed to connect citizens, volunteers, divers, NGOs and government authorities to report, verify and manage coastal pollution and cleanup activities.
 
-### 🥋 KickBlast Judo Management System
+### KickBlast Judo Management System
 
 A desktop-based management system developed to manage athlete registration, monthly fees, reports and administrative activities.
 
-### 🛒 E-Commerce Web Application
+### E-Commerce Web Application
 
 An e-commerce application with product management, shopping cart functionality and database integration.
 
-### 📡 Internet of Things (IoT) Projects
+### Internet of Things (IoT) Projects
 
 Developing IoT-based projects using sensors, microcontrollers and real-time monitoring technologies.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -101,7 +101,7 @@ Developing IoT-based projects using sensors, microcontrollers and real-time moni
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -123,6 +123,6 @@ Developing IoT-based projects using sensors, microcontrollers and real-time moni
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 
 </div>
