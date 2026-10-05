@@ -1,21 +1,20 @@
 # Hi 👋, I'm Chamath Rasanga
 
-### 💻 Information Technology Student | Software Engineering Enthusiast
+###  Information Technology Student | Dev-ops Engineering Enthusiast
 
 🎓 Information Technology Student at the Institute of Technology, University of Moratuwa, Sri Lanka
 
-🌱 Currently learning **Software Development, DevOps, Linux & Internet of Things (IoT)**
+Currently learning ** DevOps, Linux & Internet of Things (IoT)**
 
-💡 Interested in **Web Development, Software Engineering & Internet of Things (IoT)**
-
-🚀 Building projects to improve my development skills
+Interested in **Web Development, Software Engineering & Internet of Things (IoT)**
+Building projects to improve my development skills
 
 ---
 
 ## 🛠️ Skills
 
 **Languages:**  
-Java • Python • C# • JavaScript • C • SQL
+Java • Python 
 
 **Web Development:**  
 HTML • CSS • JavaScript • React • PHP • Node.js
