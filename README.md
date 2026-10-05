@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi 👋, I'm Chamath Rasanga
 
-<!--
-**Rasanga086/Rasanga086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Information Technology Student | Software Engineering Enthusiast
 
-Here are some ideas to get you started:
+🎓 Information Technology Student at the Institute of Technology, University of Moratuwa, Sri Lanka
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning **Software Development, DevOps, Linux & Internet of Things (IoT)**
+
+💡 Interested in **Web Development, Software Engineering & Internet of Things (IoT)**
+
+🚀 Building projects to improve my development skills
+
+---
+
+## 🛠️ Skills
+
+**Languages:**  
+Java • Python • C# • JavaScript • C • SQL
+
+**Web Development:**  
+HTML • CSS • JavaScript • React • PHP • Node.js
+
+**Frameworks & Technologies:**  
+Spring Boot • REST API • Vite
+
+**Databases:**  
+MySQL • PostgreSQL • SQL Server
+
+**Tools:**  
+Git • GitHub • VS Code • Visual Studio • Postman • Figma • Draw.io
+
+**IoT:**  
+Arduino • Sensors • Microcontrollers • Embedded Systems
+
+---
+
+## 🚀 Projects
+
+- 🌊 **Community-Based Ocean & Coastal Cleanup Management System**
+- 🥋 **KickBlast Judo Management System**
+- 🛒 **E-Commerce Web Application**
+- 📡 **Internet of Things (IoT) Projects**
+
+---
+
+## 📫 Connect With Me
+
+🔗 GitHub: [Rasanga086](https://github.com/Rasanga086)
+
+📧 Email: **your-email@gmail.com**
+
+💼 LinkedIn: **your-linkedin-profile**
+
+---
+
+⭐ *Thanks for visiting my profile!*
