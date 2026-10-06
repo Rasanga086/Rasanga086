@@ -4,8 +4,7 @@
 
 ### Information Technology Student | Software Developer
 
-<img src="https://raw.githubusercontent.com/Rasanga086/Rasanga086/main/IMG-20260902-WA0024.jpg" width="180" height="180" alt="Chamath Rasanga">
-
+<img src="https://github.com/Rasanga086/Rasanga086/blob/main/IMG-20260917-WA0001.jpg?raw=true" width="180" height="180" alt="Chamath Rasanga">
 </div>
 
 ---
