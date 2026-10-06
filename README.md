@@ -1,36 +1,46 @@
 <div align="center">
 
-# Hi 👋, I'm Chamath Rasanga
+# Hi, I'm Chamath Rasanga
 
 ### Information Technology Student | Software Developer
 
-<img src="YOUR_PHOTO_URL" width="180" height="180" alt="Chamath Rasanga">
+<img src="https://raw.githubusercontent.com/Rasanga086/Rasanga086/main/IMG-20260902-WA0024.jpg" width="180" height="180" alt="Chamath Rasanga">
 
 </div>
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <div align="center">
 
-🎓 Information Technology Student at the <b>Institute of Technology, University of Moratuwa, Sri Lanka</b>
+Information Technology Student at the <b>Institute of Technology, University of Moratuwa, Sri Lanka</b>
 
-🌱 Currently learning <b>Linux, DevOps and Internet of Things (IoT)</b>
+<br><br>
 
-💻 Interested in <b>Software Development, Web Development and DevOps</b>
+Currently learning <b>Linux, DevOps and Internet of Things (IoT)</b>
 
-🚀 Building software and IoT projects to improve my practical skills
+<br><br>
 
-💡 Passionate about learning new technologies and developing real-world solutions
+Interested in <b>Software Development, Web Development and DevOps</b>
 
-🇱🇰 Based in Sri Lanka
+<br><br>
+
+Building software and IoT projects to improve my practical skills
+
+<br><br>
+
+Passionate about learning new technologies and developing real-world solutions
+
+<br><br>
+
+Based in Sri Lanka
 
 </div>
 
 ---
 
-<h2 align="center">🛠️ Skills</h2>
+<h2 align="center">Skills</h2>
 
 <div align="center">
 
@@ -40,7 +50,7 @@
 
 ---
 
-<h2 align="center">🌱 Currently Learning</h2>
+<h2 align="center">Currently Learning</h2>
 
 <div align="center">
 
@@ -54,23 +64,29 @@
 
 ---
 
-<h2 align="center">🚀 Projects</h2>
+<h2 align="center">Projects</h2>
 
 <div align="center">
 
-### 🌊 Community-Based Ocean & Coastal Cleanup Management System
+### Community-Based Ocean & Coastal Cleanup Management System
 
 A platform designed to connect citizens, volunteers, divers, NGOs and government authorities to report, verify and manage coastal pollution and cleanup activities.
 
-### 🥋 KickBlast Judo Management System
+<br>
+
+### KickBlast Judo Management System
 
 A desktop-based management system developed to manage athlete registration, monthly fees, reports and administrative activities.
 
-### 🛒 E-Commerce Web Application
+<br>
+
+### E-Commerce Web Application
 
 An e-commerce application with product management, shopping cart functionality and database integration.
 
-### 📡 Internet of Things (IoT) Projects
+<br>
+
+### Internet of Things (IoT) Projects
 
 Developing IoT-based projects using sensors, microcontrollers and real-time monitoring technologies.
 
@@ -78,7 +94,7 @@ Developing IoT-based projects using sensors, microcontrollers and real-time moni
 
 ---
 
-<h2 align="center">🤝 Connect With Me</h2>
+<h2 align="center">Connect With Me</h2>
 
 <div align="center">
 
@@ -86,23 +102,23 @@ Developing IoT-based projects using sensors, microcontrollers and real-time moni
 <img src="https://skillicons.dev/icons?i=github" width="50">
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50">
+<a href="https://www.facebook.com/chamath.rasanga.7">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" width="50">
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50">
+<a href="mailto:vpcrasanga98@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="50">
 </a>
 
 </div>
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
 
@@ -124,6 +140,6 @@ Developing IoT-based projects using sensors, microcontrollers and real-time moni
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting my profile
 
 </div>
