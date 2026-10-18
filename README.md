@@ -72,11 +72,6 @@ Based in Sri Lanka
 A platform designed to connect citizens, volunteers, divers, NGOs and government authorities to report, verify and manage coastal pollution and cleanup activities.
 
 <br>
-
-### KickBlast Judo Management System
-
-A desktop-based management system developed to manage athlete registration, monthly fees, reports and administrative activities.
-
 <br>
 
 ### E-Commerce Web Application
