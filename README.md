@@ -2,7 +2,7 @@
 
 # Hi, I'm Chamath Rasanga
 
-### Information Technology Student | Software Developer
+### Information Technology Student 
 
 <img src="https://github.com/Rasanga086/Rasanga086/blob/main/IMG-20260917-WA0001.jpg?raw=true" width="180" height="180" alt="Chamath Rasanga">
 </div>
