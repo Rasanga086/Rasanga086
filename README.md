@@ -74,6 +74,15 @@ A platform designed to connect citizens, volunteers, divers, NGOs and government
 <br>
 <br>
 
+### Tideline Mobile App
+
+A Flutter mobile application for the Tideline coastal cleanup platform, letting members report pollution, join clean-up projects, answer alerts and view analytics. Built with <b>Flutter</b> and <b>Dart</b>, connected to a Spring Boot API.
+
+<a href="https://github.com/Rasanga086/Tideline-mobile-app">View on GitHub</a>
+
+<br>
+<br>
+
 ### E-Commerce Web Application
 
 An e-commerce application with product management, shopping cart functionality and database integration.
