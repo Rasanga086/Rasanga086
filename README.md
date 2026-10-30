@@ -21,7 +21,7 @@ Currently learning <b>Linux, DevOps and Internet of Things (IoT)</b>
 
 <br><br>
 
-Interested in <b>Software Development, Web Development and DevOps</b>
+Interested in <b>Internet of Things,Mobile app Development, Web Development and DevOps</b>
 
 <br><br>
 
