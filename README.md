@@ -139,6 +139,12 @@ An IoT-based Smart Laboratory Environmental Monitoring System designed to monito
 
 <b>Role:</b> Project Leader
 
+<br>
+
+<a href="https://github.com/Rasanga086/LabSense">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+
 <br><br>
 
 ### 🌊 TideLine – Web Application
