@@ -124,7 +124,7 @@ CI/CD • Cloud Computing
 
 <div align="center">
 
-### 🌱 SmartLab – IoT-Based Environmental Monitoring System
+### 🌱 LabSense – Smart Laboratory Environmental Monitoring System
 
 <b>IoT | ESP32-S3 | Environmental Monitoring | Data Analytics</b>
 
@@ -138,12 +138,6 @@ An IoT-based Smart Laboratory Environmental Monitoring System designed to monito
 - Working on environmental alerts and analytical reports.
 
 <b>Role:</b> Project Leader
-
-<br>
-
-<a href="https://github.com/Rasanga086/YOUR-SMARTLAB-REPOSITORY">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white">
-</a>
 
 <br><br>
 
@@ -159,26 +153,8 @@ A web-based application developed as a group project.
 
 <br>
 
-<a href="https://github.com/Rasanga086">
+<a href="https://github.com/Randil-K/Final-Project-v1">
   <img src="https://img.shields.io/badge/View%20Web%20Project-181717?style=flat-square&logo=github&logoColor=white">
-</a>
-
-<br><br>
-
-### 📱 TideLine – Mobile Application
-
-<b>Flutter | Dart | Spring Boot API</b>
-
-A Flutter mobile application for the TideLine coastal cleanup platform.
-
-- Developed using Flutter and Dart.
-- Connected to a Spring Boot backend API.
-- Supports pollution reporting and cleanup-related activities.
-
-<br>
-
-<a href="https://github.com/Rasanga086/Tideline-mobile-app">
-  <img src="https://img.shields.io/badge/View%20Mobile%20App%20Repository-181717?style=flat-square&logo=github&logoColor=white">
 </a>
 
 <br><br>
@@ -195,27 +171,22 @@ A 4WD robot car built using Arduino and electronic hardware components.
 - Controlled the robot using an Android Bluetooth Controller application.
 - Gained practical experience in hardware interfacing, motor control and embedded systems.
 
-<br>
-
-<a href="https://github.com/Rasanga086/YOUR-ROBOT-CAR-REPOSITORY">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white">
-</a>
-
 <br><br>
 
-### 💻 E-Commerce Web Application
+### 💻 E-Commerce Backend System
 
-<b>Web Development | Database Integration</b>
+<b>Backend Development | Spring Boot | Database Integration</b>
 
-An e-commerce application developed to explore web application development.
+An e-commerce backend system developed to explore backend application development.
 
 - Product management functionality.
 - Shopping cart functionality.
 - Database integration.
+- Backend services and REST API development.
 
 <br>
 
-<a href="https://github.com/Rasanga086/YOUR-ECOMMERCE-REPOSITORY">
+<a href="https://github.com/Rasanga086/E-commerce-backend-system">
   <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white">
 </a>
 
