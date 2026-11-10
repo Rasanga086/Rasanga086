@@ -7,12 +7,6 @@
 
 <img src="https://github.com/Rasanga086/Rasanga086/blob/main/IMG-20260917-WA0001.jpg?raw=true" width="225" height="300" alt="Chamath Rasanga">
 
-<p>
-  <img src="https://img.shields.io/badge/Primary%20Focus-IoT%20Engineering-0B4F8A?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Exploring-DevOps-1565C0?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Also%20Interested-Full%20Stack%20Development-2E7D32?style=for-the-badge">
-</p>
-
 </div>
 
 ---
@@ -148,7 +142,7 @@ An IoT-based Smart Laboratory Environmental Monitoring System designed to monito
 <br>
 
 <a href="https://github.com/Rasanga086/YOUR-SMARTLAB-REPOSITORY">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white">
 </a>
 
 <br><br>
@@ -166,7 +160,7 @@ A web-based application developed as a group project.
 <br>
 
 <a href="https://github.com/Rasanga086">
-  <img src="https://img.shields.io/badge/View%20Web%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/View%20Web%20Project-181717?style=flat-square&logo=github&logoColor=white">
 </a>
 
 <br><br>
@@ -184,7 +178,7 @@ A Flutter mobile application for the TideLine coastal cleanup platform.
 <br>
 
 <a href="https://github.com/Rasanga086/Tideline-mobile-app">
-  <img src="https://img.shields.io/badge/View%20Mobile%20App%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/View%20Mobile%20App%20Repository-181717?style=flat-square&logo=github&logoColor=white">
 </a>
 
 <br><br>
@@ -204,7 +198,7 @@ A 4WD robot car built using Arduino and electronic hardware components.
 <br>
 
 <a href="https://github.com/Rasanga086/YOUR-ROBOT-CAR-REPOSITORY">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white">
 </a>
 
 <br><br>
@@ -222,7 +216,7 @@ An e-commerce application developed to explore web application development.
 <br>
 
 <a href="https://github.com/Rasanga086/YOUR-ECOMMERCE-REPOSITORY">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -282,17 +276,17 @@ University of Moratuwa
 <div align="center">
 
 <a href="https://github.com/Rasanga086">
-  <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub">
+  <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub">
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.facebook.com/chamath.rasanga.7">
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="50" alt="Facebook">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="45" alt="Facebook">
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:vpcrasanga98@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" alt="Email">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" alt="Email">
 </a>
 
 <br><br>
@@ -315,7 +309,17 @@ University of Moratuwa
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rasanga086&theme=tokyonight" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rasanga086&theme=tokyonight" alt="GitHub Contribution Streak">
+
+</div>
+
+---
+
+<h2 align="center">GitHub Commit Activity</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rasanga086&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Commit Activity Graph">
 
 </div>
 
