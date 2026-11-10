@@ -8,9 +8,9 @@
 <img src="https://github.com/Rasanga086/Rasanga086/blob/main/IMG-20260917-WA0001.jpg?raw=true" width="225" height="300" alt="Chamath Rasanga">
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-IoT%20Engineering-0B4F8A?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Primary%20Focus-IoT%20Engineering-0B4F8A?style=for-the-badge">
   <img src="https://img.shields.io/badge/Exploring-DevOps-1565C0?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Interest-Full%20Stack%20Development-2E7D32?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Also%20Interested-Full%20Stack%20Development-2E7D32?style=for-the-badge">
 </p>
 
 </div>
@@ -26,23 +26,25 @@ Information Technology student at the
 
 <br><br>
 
-Interested in building practical solutions using  
-<b>Internet of Things (IoT), Embedded Systems and Software Development.</b>
+My primary interest is <b>Internet of Things (IoT) and Embedded Systems.</b>
+
+<br><br>
+
+I enjoy working with microcontrollers, sensors and connected devices  
+to build smart and practical solutions.
 
 <br><br>
 
 Currently developing my knowledge in  
-<b>IoT, Linux, DevOps Engineering and Cloud Computing.</b>
+<b>ESP32, Embedded Systems, IoT Communication and Data Analytics.</b>
 
 <br><br>
 
-Working on IoT-based environmental monitoring systems,  
-web applications and hardware-based robotics projects.
+Also interested in <b>DevOps Engineering, Linux and Full-Stack Development.</b>
 
 <br><br>
 
-Passionate about learning new technologies, solving problems  
-and developing real-world applications.
+Passionate about learning new technologies and building real-world projects.
 
 <br><br>
 
@@ -53,6 +55,20 @@ and developing real-world applications.
 ---
 
 <h2 align="center">Technical Skills</h2>
+
+<h3 align="center">IoT & Embedded Systems</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=arduino">
+
+<br><br>
+
+ESP32-S3 • Arduino UNO • Microcontrollers  
+Environmental Sensors • Sensor Integration • MQTT  
+Bluetooth Communication • Real-Time Monitoring
+
+</div>
 
 <h3 align="center">Programming Languages</h3>
 
@@ -82,19 +98,6 @@ SQL Server
 
 </div>
 
-<h3 align="center">IoT & Embedded Systems</h3>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=arduino">
-
-<br>
-
-ESP32-S3 • Microcontrollers • Environmental Sensors  
-Sensor Integration • MQTT
-
-</div>
-
 <h3 align="center">Development Tools</h3>
 
 <div align="center">
@@ -114,8 +117,9 @@ Sensor Integration • MQTT
 <br><br>
 
 <b>
-DevOps Engineering • Linux Administration • CI/CD  
-Cloud Computing • Internet of Things (IoT)
+IoT Development • Embedded Systems • MQTT  
+DevOps Engineering • Linux Administration  
+CI/CD • Cloud Computing
 </b>
 
 </div>
@@ -134,14 +138,20 @@ An IoT-based Smart Laboratory Environmental Monitoring System designed to monito
 
 - Developing the system using the ESP32-S3 development board.
 - Integrating environmental sensors to monitor Temperature, Humidity, TVOC and eCO₂ levels.
-- Working with Wi-Fi integration and MQTT-based data communication.
+- Working with ESP32-S3 Wi-Fi integration and MQTT-based data communication.
 - Involved in historical data collection, storage and analytics.
-- Developing an interactive web-based dashboard with hourly, daily, weekly and monthly analytics.
+- Developing an interactive web dashboard with hourly, daily, weekly and monthly analytics.
 - Working on environmental alerts and analytical reports.
 
 <b>Role:</b> Project Leader
 
 <br>
+
+<a href="https://github.com/Rasanga086/YOUR-SMARTLAB-REPOSITORY">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
 
 ### 🌊 TideLine – Web Application
 
@@ -155,9 +165,33 @@ A web-based application developed as a group project.
 
 <br>
 
+<a href="https://github.com/Rasanga086">
+  <img src="https://img.shields.io/badge/View%20Web%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
+### 📱 TideLine – Mobile Application
+
+<b>Flutter | Dart | Spring Boot API</b>
+
+A Flutter mobile application for the TideLine coastal cleanup platform.
+
+- Developed using Flutter and Dart.
+- Connected to a Spring Boot backend API.
+- Supports pollution reporting and cleanup-related activities.
+
+<br>
+
+<a href="https://github.com/Rasanga086/Tideline-mobile-app">
+  <img src="https://img.shields.io/badge/View%20Mobile%20App%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
 ### 🤖 4WD Bluetooth-Controlled Robot Car
 
-<b>Arduino UNO R3 | Bluetooth Communication | Robotics</b>
+<b>Arduino UNO R3 | HC-06 Bluetooth | Robotics</b>
 
 A 4WD robot car built using Arduino and electronic hardware components.
 
@@ -169,6 +203,12 @@ A 4WD robot car built using Arduino and electronic hardware components.
 
 <br>
 
+<a href="https://github.com/Rasanga086/YOUR-ROBOT-CAR-REPOSITORY">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
 ### 💻 E-Commerce Web Application
 
 <b>Web Development | Database Integration</b>
@@ -178,6 +218,12 @@ An e-commerce application developed to explore web application development.
 - Product management functionality.
 - Shopping cart functionality.
 - Database integration.
+
+<br>
+
+<a href="https://github.com/Rasanga086/YOUR-ECOMMERCE-REPOSITORY">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </div>
 
@@ -217,13 +263,15 @@ University of Moratuwa
 
 ⚙️ Embedded Systems & Robotics
 
+📡 Sensor Technology & Smart Devices
+
+📊 IoT Data Analytics
+
 🚀 DevOps Engineering & CI/CD
 
 💻 Full-Stack Web Development
 
 ☁️ Cloud Computing
-
-📊 Data Analytics
 
 </div>
 
@@ -277,6 +325,6 @@ University of Moratuwa
 
 ### Thanks for visiting my profile! ❤️
 
-**Always Learning | Always Building | Always Improving**
+**IoT Enthusiast | Technology Explorer | Lifelong Learner**
 
 </div>
