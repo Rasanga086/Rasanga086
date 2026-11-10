@@ -124,7 +124,7 @@ CI/CD • Cloud Computing
 
 <div align="center">
 
-### 🌱 LabSense – Smart Laboratory Environmental Monitoring System
+### LabSense – Smart Laboratory Environmental Monitoring System
 
 <b>IoT | ESP32-S3 | Environmental Monitoring | Data Analytics</b>
 
@@ -137,7 +137,7 @@ An IoT-based Smart Laboratory Environmental Monitoring System designed to monito
 - Developing an interactive web dashboard with hourly, daily, weekly and monthly analytics.
 - Working on environmental alerts and analytical reports.
 
-<b>Role:</b> Project Leader
+<b>Role:</b> hardware & web application project
 
 <br>
 
