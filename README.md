@@ -137,7 +137,7 @@ An IoT-based Smart Laboratory Environmental Monitoring System designed to monito
 - Developing an interactive web dashboard with hourly, daily, weekly and monthly analytics.
 - Working on environmental alerts and analytical reports.
 
-<b>Role:</b> hardware & web application project
+<b>-</b> hardware & web application project
 
 <br>
 
