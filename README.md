@@ -252,23 +252,25 @@ University of Moratuwa
 
 <div align="center">
 
-<a href="https://github.com/Rasanga086">
+<a href="https://github.com/Rasanga086" style="text-decoration:none;">
   <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub">
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://www.facebook.com/chamath.rasanga.7">
+<a href="https://www.facebook.com/chamath.rasanga.7" style="text-decoration:none;">
   <img src="https://cdn.simpleicons.org/facebook/1877F2" width="45" alt="Facebook">
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="mailto:vpcrasanga98@gmail.com">
+<a href="mailto:vpcrasanga98@gmail.com" style="text-decoration:none;">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" alt="Email">
 </a>
 
 <br><br>
 
-📧 **vpcrasanga98@gmail.com**
+📧 **[vpcrasanga98@gmail.com](mailto:vpcrasanga98@gmail.com)**
+
+<br><br>
 
 📍 **Matara, Sri Lanka**
 
@@ -280,23 +282,32 @@ University of Moratuwa
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rasanga086&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats">
+<img height="180"
+src="https://github-stats-extended.vercel.app/api?username=Rasanga086&show_icons=true&theme=tokyonight&include_all_commits=true"
+alt="GitHub Stats">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasanga086&layout=compact&theme=tokyonight" alt="Top Languages">
+<img height="180"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rasanga086&layout=compact&theme=tokyonight"
+alt="Top Languages">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rasanga086&theme=tokyonight" alt="GitHub Contribution Streak">
+<img
+src="https://streak-stats.demolab.com/?user=Rasanga086&theme=tokyonight"
+alt="GitHub Contribution Streak">
 
 </div>
 
 ---
 
-<h2 align="center">GitHub Commit Activity</h2>
+<h2 align="center">GitHub Contribution Activity</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rasanga086&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Commit Activity Graph">
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rasanga086&theme=tokyonight"
+width="100%"
+alt="GitHub Contribution Activity">
 
 </div>
 
